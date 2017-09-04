@@ -1,4 +1,4 @@
-ngredients:
+Ingredients:
  - 2 cups sugar
  - 2 cups all-purpose flour
  - 1 cup water
@@ -24,4 +24,3 @@ Directions:
     clean, or until top springs back when touched lightly with finger. Cool completely.
 
  5. Frost with Sour Cream Chocolate Frosting.
-
